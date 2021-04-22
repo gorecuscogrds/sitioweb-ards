@@ -1,0 +1,22 @@
+---
+output: 
+  html_fragment
+fontsize: 8pt
+---
+
+# Espacios de Concertación
+
+<!-- Dual columns -->
+<div class="col2">
+<img class="foto" src="img/logo.png"/>
+
+<div class="descricao">
+
+### En Construcción
+
+
+***
+
+
+
+

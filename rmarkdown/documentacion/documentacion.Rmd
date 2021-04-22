@@ -1,0 +1,31 @@
+---
+output: 
+  html_fragment
+fontsize: 8pt
+---
+
+# Documentación
+
+<!-- Dual columns -->
+<div class="col2">
+<img class="foto" src="img/logo.png"/>
+
+<div class="descricao">
+
+### Documentos Normativos
+
+La Agencia Regional de Desarrollo Social se enmarca en el Reglamento de Organización y Funciones. Se consideran los siguientes documentos normativos:
+
+* [Reglamento Interno de la ARDS](https://drive.google.com/file/d/1clOK6zdjsHcxovy9FC-V-6T9FxTRx2la/view?usp=sharing)
+* [Ordenanza Regional N° 176-2020-CR/GR CUSCO](https://transparencia.regioncusco.gob.pe/transparencia/planeamiento_organizacion/rof/O.R.176.2020.pdf)
+* [Extracto de la Ordenanza Regional N° 176-2020-CR/GR CUSCO](https://drive.google.com/file/d/1o39q8YPyatdCiTkI3tjrBPc2D7WvOKNC/view?usp=sharing)
+* [Publicación en el Peruano](https://busquedas.elperuano.pe/normaslegales/aprueban-el-reglamento-de-organizacion-y-funciones-del-gobie-ordenanza-no-176-2020-crgr-cusco-1891227-1/
+)
+
+***
+
+### Integrantes de la ARDS
+
+
+
+

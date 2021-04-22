@@ -1,0 +1,12 @@
+name: ards
+title: ards
+username:
+account: comandocovid19cusco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3965338
+bundleId: 4471521
+url: https://gorecusco.shinyapps.io/ards/
+when: 1618424838.92675
+asMultiple: FALSE
+asStatic: FALSE
