@@ -1,7 +1,6 @@
 ##-- Pacotes ----
 library(dplyr)
 library(dbplyr)
-library(rvest)
 library(data.table)
 library(reshape2)
 library(tidyr)
@@ -17,12 +16,10 @@ library(RColorBrewer)
 library(sf)
 library(sp)
 library(scales)
-library(highcharter)
 library(DT)
-library(mapview)
 library(xts)
-library(geojsonR)
 library(waiter)
+library(slickR)
 
 ##--utilidades  ----
 source("functions/utils.R")

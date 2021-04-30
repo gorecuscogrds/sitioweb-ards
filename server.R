@@ -6,7 +6,9 @@ shinyServer(function(input, output, session){
   source("tabs/server/home.R", local = TRUE)
   source("tabs/server/acerca_de.R", local = TRUE)
   source("tabs/server/que_hacemos.R", local = TRUE)
-  source("tabs/server/espacios.R", local = TRUE)
+  # source("tabs/server/espacio.R", local = TRUE)
+  # source("tabs/server/documentacion2.R", local = TRUE)
   source("tabs/server/documentacion.R", local = TRUE)
+  source("tabs/server/espacios_concertacion.R", local = TRUE)
   
 })

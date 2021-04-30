@@ -21,8 +21,8 @@ observeEvent(input$acerca_de,{
 observeEvent(input$que_hacemos,{
   updateTabsetPanel(session = session, inputId = "navbar", selected = "que_hacemos")
 })
-observeEvent(input$espacio,{
-  updateTabsetPanel(session = session, inputId = "navbar", selected = "espacio")
+observeEvent(input$espacios_concertacion,{
+  updateTabsetPanel(session = session, inputId = "navbar", selected = "espacios_concertacion")
 })
 observeEvent(input$documentacion,{
   updateTabsetPanel(session = session, inputId = "navbar", selected = "documentacion")
@@ -31,3 +31,14 @@ observeEvent(input$link_info,{
 updateTabsetPanel(session = session, inputId = "navbar", selected = "documentacion")
 closeSweetAlert(session = session)
 })
+
+
+## Añadir Carousel ----
+
+# output$slickr <- renderSlickR({
+#   imgs <- list.files("D:/Downloads/LOG-GRDS (4).png", pattern=".png", full.names = TRUE)
+#   slickR(imgs)
+#   
+# })
+
+

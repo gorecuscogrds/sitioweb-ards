@@ -5,7 +5,8 @@ home <- tabPanel(title = "Inicio",
                  br(),
                  HTML("<h1><center>Agencia Regional de Desarrollo Social</center></h1>"),
                  HTML("<h2><center>Gobierno Regional Cusco</center></h2>"),
-                 
+                 br(),
+                 # slickROutput("slickr", width="500px"),
                  br(),
                  
                  wellPanel(
@@ -27,7 +28,16 @@ home <- tabPanel(title = "Inicio",
                  ),
 
                  column(width = 3, align = "center",
-                        tab_voronoys(texto = "Espacios de concertación", cor = colores[4], icon = "person.png", id = "espacio")
+                        tab_voronoys(texto = "Espacios de Concertación", cor = colores[3], icon = "document.png", id = "espacios_concertacion")
                  )
+                 
+                 
+                 # column(width = 3, align = "center",
+                 #        tab_voronoys(texto = "Doc", cor = colores[4], icon = "person.png", id = "documentacion2")
+                 # ),
+                 
+                 
+                 
+
                  
 )

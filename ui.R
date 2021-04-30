@@ -30,12 +30,12 @@ shinyUI(
                selected = "home",
                theme = "styles.css", 
                fluid = T,
-               ##-- Tablas ----
+               ##-- Tabs ----
                home,
                acerca_de,
                que_hacemos,
-               documentacion,
-               espacios
+               documentacion
+               
     ),
     ##-- Footer ----
     div(class = "footer",
